@@ -1,0 +1,1 @@
+f = open("nonesuch.txt") rescue nil
